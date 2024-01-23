@@ -1,0 +1,82 @@
+chihiro's artist recommendation ids
+
+include name, genre, formed year, biographyEN, strArtistFanart, strCountry
+
+alex g - 135421
+"strArtist":"Alex G"
+"strGenre":"Indie Rock"
+"intFormedYear":"2010"
+"strBiographyEN":"Alex G, the stage name of Alexander Giannascoli, (born 1993) is a multi-instrumentalist from Philadelphia who started his career as a bedroom singer/songwriter, building up an audience through a slew of DIY releases on Bandcamp. Following the critical acclaim of Alex G's sixth album DSU\u2014featured as a Best Album of 2014 by Noisey, Consequence of Sound, The Washington Post, Vogue, CMJ, and Time Out\u2014UK label Lucky Number Music stepped in to physically re-issue Alex's earlier releases Trick and Rules. Previously only available via Bandcamp, the albums were professionally mastered made commercially available for the very first time.\n\nIn 2015 Alex G signed with Domino Recording Company, performing as part of the label's roster at their South by Southwest showcase that year."
+"strArtistFanart":"https://www.theaudiodb.com/images/media/artist/fanart/mw0y9v1663966195.jpg"
+"idArtist":"135421"
+
+
+rex orange county - 151701
+
+
+
+angus & julia stone - 117448
+"strArtist":"Angus & Julia Stone"
+"strGenre":"Folk"
+"intFormedYear":"2006"
+"strBiographyEN":"Angus & Julia Stone are an Australian brother-sister folk-blues group which formed in 2006. Their parents played as a folk duo before Julia and Angus were born. Angus & Julia Stone have released two studio albums, A Book Like This (8 September 2007), which peaked at No. 6 on the ARIA Albums Chart; and Down the Way (12 March 2010), reached No. 1. At the ARIA Music Awards of 2010 they won five awards from nine nominations: winning 'Album of the Year', 'Best Adult Alternative Album', 'Best Cover Art' and 'Producer of the Year' for Down the Way and 'Single of the Year' for \"Big Jet Plane\". The siblings have each issued two solo albums with Angus releasing Smoking Gun (under the pseudonym Lady of the Sunshine) in April 2009 and Broken Brights in July 2012; Julia's albums are The Memory Machine (October 2010) and By the Horns (May 2012)."
+"strArtistFanart":"https://www.theaudiodb.com/images/media/artist/fanart/stone-angus--stone-julia-51228f5d41c7b.jpg"
+strCountry":"Sydney, Australia"
+"idArtist":"117448"
+
+
+sufjan stevens - 113747
+José-González - 111812
+Clairo - 156720
+Beabadoobee - 157514
+mitski - 151530
+girl in red - 160475
+bon iver - 111668
+gregory alan isakov - 126184
+the velvet underground - 111457
+bright eyes - 114936
+Iron and wine - 114152
+lana del ray - 111839
+
+joji - 162981
+"idArtist":"162981",
+"strArtist":"Joji"
+"strGenre":"Trip Hop"
+"intFormedYear":"2008"
+"strBiographyEN":"George Kusunoki Miller (born 18 September 1992), better known by his stage name Joji and formerly by his online aliases Filthy Frank and Pink Guy, is a Japanese singer-songwriter, record producer, author, and former Internet personality, YouTuber, and comedian.\n\nMiller's start as an entertainer began on his 3 now defunct YouTube channels: DizastaMusic, TVFilthyFrank, and TooDamnFilthy. They consisted of rap songs, swearing, rants, extreme challenges, ukulele performances and a shock humor show titled The Filthy Frank Show, with most of the main characters played by Miller, including the titular character of Filthy Frank. To complement his TVFilthyFrank channel, Miller produced comedy hip hop music under his Pink Guy alias, who is also a zentai-wearing recurring character on The Filthy Frank Show, with his songs featured on the show and his discography spanning two full-length projects and an extended play. Miller's videos had widespread impact, including starting a viral dance craze known as the Harlem Shake, which was directly responsible for the debut of Baauer's \"Harlem Shake\" song atop the Billboard Hot 100. Many YouTube personalities have made major or cameo appearances on The Filthy Frank Show, including h3h3Productions, iDubbbz, JonTron, Michael Stevens, and PewDiePie.\n\nIn December 2017, Miller stated he had retired the channel to focus on his music career, under the name Joji, producing more nuanced and serious music, releasing the EP In Tongues, which peaked at number 58 on the Billboard 200, and his debut studio album Ballads 1, which reached number 1 on Billboard's top R&B and hip-hop chart in November 2018. With this, Miller became the first Asian-born artist to do so. Miller's music has been described as a mix between R&B, lo-fi and trip hop."
+"strCountry":"Higashinada-ku, Kobe, Japan"
+"strArtistFanart":"https://www.theaudiodb.com/images/media/artist/fanart/jyz0401621904589.jpg"
+
+
+
+rihanna - 111305
+queen - 111238
+coldplay - 111239
+metallica - 111279
+michael jackson - 112424
+adele - 111493
+foo fighters - 111233
+david bowie - 111444
+abba - 111258
+taylor swift - 111352
+bruno mars - 111674
+lady gaga - 111236
+ghost - 113291
+aerosmith - 111268
+korn - 111490
+radiohead - 111418
+nirvana - 111319
+daft punk - 111492
+acdc - 119231
+green day - 111486
+nine inch nails - 111402
+blink 182 - 111660
+snoop dogg - 112059
+the cranberries - 112943
+pink floyd - 111259
+bruce springsteen - 111277
+jamiroquai - 111571
+marilyn manson - 112122 
+
+
+

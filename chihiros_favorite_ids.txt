@@ -1,0 +1,15 @@
+    {"idArtist": "135421"}, //alex g
+    {"idArtist": "151701"}, //rex orange county
+    {"idArtist": "117448"}, //angus and julia stone
+    {"idArtist": "113747"}, //sufjan stevens
+    {"idArtist": "111812"}, //jose gonzalez
+    {"idArtist": "156720"}, //clairo
+    {"idArtist": "157514"}, //beabadoobee
+    {"idArtist": "151530"}, //mitski
+    {"idArtist": "160475"}, //girl in red 
+    {"idArtist": "111668"}, //bon iver
+    {"idArtist": "126184"}, //gregory alan isakov
+    {"idArtist": "111457"}, //the velvet underground
+    {"idArtist": "114936"}, //bright eyes 
+    {"idArtist": "114152"}, //iron and wine
+    {"idArtist": "111839"}, //lana del ray
